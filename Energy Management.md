@@ -16,18 +16,16 @@ In the "Sleep is your Superpower" video, it is highlighted that sleep plays a cr
 
 ### What are some ideas that you can implement to sleep better?
 
-To sleep better, consider implementing these ideas:
+To sleep better, we can implement these ideas:
 
 - Maintain a consistent sleep schedule.
-- Create a comfortable sleep environment.
-- Limit exposure to screens before bedtime.
-- Manage stress through relaxation techniques.
-- Avoid heavy meals, caffeine, and alcohol close to bedtime.
-- Get regular exercise during the day.
-- Consider mindfulness meditation or deep breathing exercises.
-- Invest in a quality mattress and pillows.
-- Ensure your bedroom is cool, dark, and quiet.
-- Seek medical advice if sleep problems persist.
+- Creating a comfortable sleep environment.
+- Limiting exposure to screens before bedtime.
+- Managing stress through relaxation techniques.
+- Avoiding heavy meals, caffeine, and alcohol close to bedtime is a good idea.
+- Regular exercise during the day will lead to good sleep.
+- We can do meditation or deep breathing exercises .
+
 
 ### Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
 
@@ -43,13 +41,11 @@ To sleep better, consider implementing these ideas:
 - **Set Clear Goals:** Define my fitness objectives, whether it's weight loss, muscle gain, or improved endurance.
 - **Create a Schedule:** Plan specific workout times and stick to them as I would with any other appointment.
 - **Start Slow:** If I am new to exercise,  i will begin with manageable routines and gradually increase intensity.
-- **Find Activities You Enjoy:** Engage in physical activities , such as dancing, hiking, or sports.
-- **Partner Up:** Exercise with a friend or join a fitness class to stay motivated and accountable.
-- **Use Technology:** Utilize fitness apps or wearables to track progress and receive guidance.
-- **Make It a Habit:** Consistency is key, so strive to make exercise a part of my daily routine.
-- **Mix It Up:** Vary workouts to prevent boredom and target different muscle groups.
+- **Use Technology:** I can consider utilizing fitness apps or wearables to track progress and receive guidance.
+- **Make It a Habit:** I have to stay consistent and strive to make exercise a part of my daily routine.
+- **Mix It Up:** I can vary workouts to prevent boredom and target different muscle groups.
 - **Stay Hydrated and Eat Well:** Proper nutrition and hydration are essential for sustaining energy during workouts.
-- **Listen to Your Body:** Pay attention to  body's signals, and don't overexert ; rest when needed.
+
 
 
 
